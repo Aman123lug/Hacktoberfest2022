@@ -10,7 +10,7 @@
  
 
 
-<h4> Feel free to contribute to this repo by creating and editing jupyter notebook. </h4>
+<h4> Feel free to contribute to this repo by creating and editing jupyter notebooks. </h4>
 
 If you want to practice to make a pull request, follow the CONTRIBUTING.md
 
