@@ -2,5 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- Anubhav Goyal
-- Divyansh
+- [Anubhav Goyal](https://github.com/Anubhav-Goyal01)
+- [Divyansh](https://github.com/Divyansh3021)
+- [Yash Agrawal](https://github.com/ag-yash)
+
