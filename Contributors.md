@@ -9,3 +9,4 @@
 - [Muhammad Anandha Fritama](https://github.com/anandha24)
 - [Ankit Kumar](https://github.com/ankitkumar174)
 - [Abhishek Dasgupta](https://github.com/abhishekgit03)
+- [Teddy Firman](https://github.com/TeddyFirman)
