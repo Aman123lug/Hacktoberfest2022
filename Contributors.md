@@ -10,4 +10,5 @@
 - [Ankit Kumar](https://github.com/ankitkumar174)
 - [Abhishek Dasgupta](https://github.com/abhishekgit03)
 - [Teddy Firman](https://github.com/TeddyFirman)
+- [Tejaswi Kumar](https://github.com/Tejaswi-Kumar)
 - [Vishal kannan](https://github.com/Vis03al)
